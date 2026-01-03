@@ -1,7 +1,5 @@
 # odoo-X-Gect-2.0
 
-A frontend project built with Vite + TypeScript and PostCSS. This repository contains the UI for the "X Gect 2.0" project (frontend assets, Vite config, and build output). Use this README to understand the project layout, install dependencies, run the development server, and build for production.
-
 Repository: [kdgohil01/odoo-X-Gect-2.0](https://github.com/kdgohil01/odoo-X-Gect-2.0)
 
 ---
