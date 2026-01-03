@@ -6,14 +6,6 @@
 ![Vite](https://img.shields.io/badge/Vite-6.3.5-646CFF?logo=vite)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-
-|               Role              |         Name         |                                                                                  GitHub                                                                                 |                                                                                             LinkedIn                                                                                             |
-| :-----------------------------: | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  Backend Developer |       Hem Patel      |             [![GitHub](https://img.shields.io/badge/GitHub-hemathens-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/hemathens)             |             [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hem%20Ajit%20Patel-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hem-patel19)            |
-|        Frontend Developer       | Harshdeepsinh Jadeja | [![GitHub](https://img.shields.io/badge/GitHub-harshdeepsinhjadeja27-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/harshdeepsinhjadeja27) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshdeepsinh%20Jadeja-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jadeja-harshdeepsinh-74ab16321) |
-|         Team Leader        |  Karmadeepsinh Gohil |             [![GitHub](https://img.shields.io/badge/GitHub-kdgohil01-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/kdgohil01)             |  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karmadeepsinh%20Gohil-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/karmadeepsinh-gohil-31484230a)  |
-|          Documentation          |    Meet Sanchaniya   |                [![GitHub](https://img.shields.io/badge/GitHub-MeetSanchaniya04-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/MeetSanchaniya04)               |      [![LinkedIn](https://img.shields.io/badge/LinkedIn-Meet%20Sanchaniya-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/meet-sanchaniya-2a4193338)      |
- 
 ---
 
 ABOUT
@@ -23,6 +15,16 @@ Odoo X Gcet. The main goal of this project is to
 provide a structured, reliable, and easy‑to‑use system
 that follows modern development practices for human resource.
 .
+
+**Team**
+
+|               Role              |         Name         |                                                                                  GitHub                                                                                 |                                                                                             LinkedIn                                                                                             |
+| :-----------------------------: | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  Backend Developer |       Hem Patel      |             [![GitHub](https://img.shields.io/badge/GitHub-hemathens-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/hemathens)             |             [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hem%20Ajit%20Patel-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hem-patel19)            |
+|        Frontend Developer       | Harshdeepsinh Jadeja | [![GitHub](https://img.shields.io/badge/GitHub-harshdeepsinhjadeja27-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/harshdeepsinhjadeja27) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshdeepsinh%20Jadeja-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jadeja-harshdeepsinh-74ab16321) |
+|         Team Leader        |  Karmadeepsinh Gohil |             [![GitHub](https://img.shields.io/badge/GitHub-kdgohil01-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/kdgohil01)             |  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karmadeepsinh%20Gohil-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/karmadeepsinh-gohil-31484230a)  |
+|          Documentation          |    Meet Sanchaniya   |                [![GitHub](https://img.shields.io/badge/GitHub-MeetSanchaniya04-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/MeetSanchaniya04)               |      [![LinkedIn](https://img.shields.io/badge/LinkedIn-Meet%20Sanchaniya-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/meet-sanchaniya-2a4193338)      |
+ 
 --------------------------------------------------
 FOLDER STRUCTURE
 --------------------------------------------------
