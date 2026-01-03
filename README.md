@@ -34,19 +34,32 @@ that follows modern development practices for human resource.
 --------------------------------------------------
 FOLDER STRUCTURE
 --------------------------------------------------
-.
-├── ATTRIBUTIONS.md          # Third-party attributions and credits
-├── README.md                # This file
-├── dist/                    # Production build output
-├── guidelines/              # Project guidelines & documentation
-├── index.html               # Main HTML entry
-├── loginpage/               # Login page assets
-├── node_modules/            # Installed packages (ignored in git)
-├── package.json             # Project metadata and scripts
-├── postcss.config.mjs       # PostCSS configuration
-├── src/                     # Source code (TS, styles, components)
-├── vite.config.ts           # Vite config file
-└── package-lock.json        # Lockfile (dependency versions)
+
+├── ATTRIBUTIONS.md
+
+├── README.md
+
+├── dist/
+
+├── guidelines/
+
+├── index.html
+
+├── loginpage/
+
+├── node_modules/
+
+├── package.json
+
+├── postcss.config.mjs
+
+├── src/
+
+├── vite.config.ts
+
+└── package-lock.json
+
+
 
 
 --------------------------------------------------
