@@ -59,28 +59,39 @@ FOLDER STRUCTURE
 --------------------------------------------------
 🚀 Features
 
-✔ Fast development with hot module replacement
-✔ Strongly typed UI with TypeScript
-✔ Build optimized for production
-✔ Easy Logic flow
-✔ Payslips Downloadable
+- Fast development with hot module replacement
+
+- Strongly typed UI with TypeScript
+
+- Build optimized for production
+
+-  Easy Logic flow
+
+- Payslips Downloadable
 
 --------------------------------------------------
 🧠 Tech Stack
+
 Technology	Purpose
-🧪 Vite	Build tooling & dev server
-📦 TypeScript	Type-safe JavaScript
-🔧 PostCSS	CSS processing
-🧩 Node.js	Runtime environment
-📌 npm	Package management
+
+Vite	Build tooling & dev server
+
+TypeScript	Type-safe JavaScript
+
+PostCSS	CSS processing
+
+Node.js	Runtime environment
+
+npm	Package management
 
 --------------------------------------------------
 📥 Prerequisites
 
 Before installing, make sure you have:
 
-✔ Node.js (LTS: v16+ or v18+)
-✔ npm (comes with Node.js)
+Node.js (LTS: v16+ or v18+)
+
+npm (comes with Node.js)
 
 --------------------------------------------------
 ⚙️ Installation
@@ -89,7 +100,9 @@ Before installing, make sure you have:
 ## Frontend
 
 git clone https://github.com/kdgohil01/odoo-X-Gect-2.0.git
+
 cd odoo-X-Gect-2.0
+
 npm install
 
 ## Backend
@@ -115,8 +128,5 @@ npm run dev
 ✔ You can add a LICENSE file to apply an official license.
 
 --------------------------------------------------
-📞 Contact
 
-For questions or support, contact:
-
-👤 Repository Owner — GitHub: kdgohil01
+Made with Love by US!
